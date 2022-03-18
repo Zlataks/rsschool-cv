@@ -7,7 +7,8 @@
 I have been learning HTML, CSS and JavaScript for about 6 months. Every day I learn something new and improve myself.
 ## Skills
 * HTML
-* CSS/SASS
+* CSS
+* SASS
 * JavaScript (Basic)
 * Git
 ## Code Example
